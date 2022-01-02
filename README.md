@@ -8,7 +8,7 @@ This repo is inspired by [profile-summary-for-github](https://github.com/tipsy/p
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 
-[繁體中文](./docs/README.zh-tw.md)
+
 
 :star: This repo is just for fun, feel free to contribute! :star:
 
